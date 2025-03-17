@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/lEflo_sc82g?feature=shared" target="_blank">
+    <a href="https://www.youtube.com/@JavaScriptTutorialFamily" target="_blank">
       <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner">
     </a>
   <br />
@@ -15,7 +15,7 @@
   <h3 align="center">A HealthCare Management System</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Tutorial</b></a> YouTube. Join the JST family!
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@JavaScriptTutorialFamily" target="_blank"><b>JavaScript Tutorial</b></a> YouTube. Join the JST family!
     </div>
 </div>
 
