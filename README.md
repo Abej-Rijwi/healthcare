@@ -91,8 +91,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/healthcare.git
-cd healthcare
+git clone https://github.com/Abej-Rijwi/carepulse.git
+cd carepulse
 ```
 
 **Installation**
@@ -994,4 +994,4 @@ export const StatusIcon = {
 
 ## <a name="links">🔗 Assets</a>
 
-Public assets used in the project can be found [here](https://drive.google.com/file/d/1yGvWFeSaH1_-aiQ1gejT23lqz5979RKB/view?usp=sharing)
+Public assets used in the project can be found [here](https://drive.google.com/drive/u/2/folders/1OpdItqXIvWCC4vz_SsRaQwZjZDQv0lzn)
