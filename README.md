@@ -91,8 +91,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Abej-Rijwi/HealthCare-Application.git
-cd carepulse
+git clone https://github.com/Abej-Rijwi/healthcare.git
+cd healthcare
 ```
 
 **Installation**
