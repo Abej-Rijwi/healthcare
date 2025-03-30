@@ -994,4 +994,4 @@ export const StatusIcon = {
 
 ## <a name="links">🔗 Assets</a>
 
-Public assets used in the project can be found [here](https://drive.google.com/drive/u/2/folders/1OpdItqXIvWCC4vz_SsRaQwZjZDQv0lzn)
+Public assets used in the project can be found [here](https://drive.google.com/drive/folders/1Kj5FTUZa4iY--jDxrviNvqZNpITm8SlS)
