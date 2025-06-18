@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/KzpOabCuqrM" target="_blank">
-      <img src="banner.png" alt="Project Banner" />
+      <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner">
     </a>
   <br />
   <div>
